@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Cherry Cream Soda
+- Font Author: Copyright (c) 2010 by Font Diner, Inc. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/cherrycreamsoda/v21/UMBIrOxBrW6w2FFyi9paG0fdVdRciTd6Cd47DJ7G.ttf
+- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
